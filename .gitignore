@@ -3,5 +3,5 @@ fc_base/
 build/
 
 #
-/test/
+/test/*
 !/test/*.sh
